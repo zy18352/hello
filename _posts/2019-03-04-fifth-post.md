@@ -2,7 +2,7 @@
 title: Third post
 description: 'This is the third post of the "posts" collection.'
 lang: en
-image: /files/images/china-lamp.jpg
+image: /files/images/translation.jpg
 ---
 
 What do people think about translation?
